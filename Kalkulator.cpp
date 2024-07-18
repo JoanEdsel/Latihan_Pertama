@@ -5,6 +5,11 @@
 using namespace std;
 
 int main() {
+	cout << "Kelompok" << endl;
+	cout << "-Joan" << endl;
+	cout << "-Jean" << endl;
+	cout << "-Marc" << endl;
+	cout << "-Vellen" << endl;
 	
 	int angka1,angka2, pil;
 	float hasil;
